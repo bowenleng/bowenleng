@@ -1,10 +1,12 @@
-##👋 Hi, I'm Bowen!
+👋 Hi, I'm Bowen!
+--
 
 Hello there! My name is Bowen and I am a Computer Science student attending Texas A&M University in College Station. I am passionate about working on coding projects that fulfill my creative interests and I am interested in learning more about things like AI, graphics, and visuals!
 
 <hr>
 Here are some projects that I am currently working on!
-<hr>
+<br>
+
 ### ⚙️ [Tekora](<https://github.com/bowenleng/Tekora>)
 - A Minecraft mod that adds technology with a lot of physical and chemical (yes somehow) interactions!
 
