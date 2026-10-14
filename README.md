@@ -7,7 +7,7 @@ Hello there! My name is Bowen and I am a Computer Science student attending Texa
 Here are some projects that I am currently working on!
 <br>
 
-### [Tekora](<https://github.com/bowenleng/Tekora>)
+### [Tekora](<https://github.com/OsdiliteStudios/Tekora>)
 - A Minecraft mod that adds technology with a lot of physical and chemical (yes somehow) interactions!
 
 ### [Portfolio Website](<https://github.com/bowenleng/bowenleng.github.io>)
